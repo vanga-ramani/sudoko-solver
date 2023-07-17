@@ -14,7 +14,7 @@ This is a Python program that solves Sudoku puzzles using a backtracking algorit
 
 ## Requirements
 
-To run this program, you need to have Python installed on your system. This program is compatible with Python 3.x.
+To run this program, you need to have Python installed on your system. This program is compatible with Python 3 steps.
 
 ## Installation
 
